@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahadat75
 - 👀 I’m interested in Web Design and Development.
-- 🌱 I’m currently learning Wordpress.
+- 🌱 I’m currently learning javascript.
 - 📫 How to reach me sahadathossain7514@gmail.com
 
 <!---
