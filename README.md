@@ -11,7 +11,7 @@ Skills: WORDPRESS / PHP / JS / HTML / CSS
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: By Github Or LinkedIn 
-- 🖤 Hobbies: Watching SuperHero Movies and reading Marvel/Dc Comics.
+- 🐱‍👤 Hobbies: Watching SuperHero Movies and reading Marvel/Dc Comics.
 - ⚡ Fun fact: I can speak three languages and tiny bit Japanease (currently learning).
 
 
