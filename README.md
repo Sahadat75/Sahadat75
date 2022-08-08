@@ -3,7 +3,7 @@
 #### I am Front-end focused Mern stack Developer
 
 
- I am a passionate Web Developer. I am always enthusiastic about new technologies. My expertise is in frontend development. I love to develop frontend functionalities with React & Javascript. I am eager about machine learning as its name bombers curiosity to new programmers.
+I am always enthusiastic about new technologies. My expertise is in frontend development. I love to develop frontend functionalities with React & Javascript. I am eager about machine learning as its name bombers curiosity to new programmers.
 
 Skills: WORDPRESS / PHP / JS / HTML / CSS
 
