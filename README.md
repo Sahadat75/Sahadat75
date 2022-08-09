@@ -1,4 +1,4 @@
-![I am Front-end focused Mern stack Developer](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/272904308_630395218181610_8637069837310166531_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEbjEOZDA5UdPM5GgQq7kqU-ZTizh4B9ZT5lOLOHgH1lHmgBs-2kOfJdPn7Po1Y5Idg9MiDeaQaDLlWIioAIfof&_nc_ohc=BC4jGk6KdlEAX_Bl15j&_nc_ht=scontent.fdac135-1.fna&oh=00_AT_OE9ZOdfSlRAm96GEpEZM94KEyn_-YTwr33sU4W5fUiw&oe=62F6C8AA)
+
 ### Hi there 👋, My name is Sahadat Hossain
 #### I am Front-end focused Mern stack Developer
 
